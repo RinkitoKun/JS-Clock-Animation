@@ -1,7 +1,3 @@
-🎵 JS Drum - Playable Drum Website
-Welcome to the JS Drum project! This interactive web application is part of the JavaScript 30 Days Challenge, where developers build exciting projects using pure JavaScript, HTML, and CSS.
-
-Explore the app and unleash your inner drummer by playing virtual drums directly on your keyboard or screen.
 # 🎵 JS Drum - Playable Drum Website  
 
 Welcome to the **JS Drum** project!  
