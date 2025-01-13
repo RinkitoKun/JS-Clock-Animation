@@ -9,7 +9,7 @@ Watch the clock hands move in real-time as they display the current time with sm
 
 ## 🌐 Live Demo  
 
-Check out the live deployment here: [JS Clock](https://github.com/RinkitoKun/JS-Drum.git)  
+Check out the live deployment here: [JS Clock](https://rinkitokun.github.io/JS-Drum/)  
 
 ---
 
